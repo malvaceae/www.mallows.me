@@ -1,0 +1,6 @@
+[submodule "assets/elegant"]
+	path = assets/elegant
+	url = https://github.com/malvaceae/pelican-elegant.git
+[submodule "assets/plugins"]
+	path = assets/plugins
+	url = https://github.com/malvaceae/pelican-plugins.git
