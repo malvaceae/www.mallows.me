@@ -62,9 +62,9 @@ LANDING_PAGE_TITLE = "うずらの備忘録 - Quail's Notes That Are Related to 
 PROJECTS_TITLE = 'マイプロジェクト'
 PROJECTS = [
     {
-        'name': 'web-keyboard',
-        'url': 'https://github.com/malvaceae/web-keyboard',
-        'description': '遠隔ソフトウェアキーボード',
+        'name': 'ChipTube',
+        'url': 'https://chiptube.io',
+        'description': 'Web MIDI Player',
     },
 ]
 RELATED_POSTS_LABEL = '関連記事'
