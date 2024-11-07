@@ -63,7 +63,7 @@ PROJECTS_TITLE = 'マイプロジェクト'
 PROJECTS = [
     {
         'name': 'ChipTube',
-        'url': 'https://chiptube.io',
+        'url': 'https://chiptu.be',
         'description': 'Web MIDI Player',
     },
 ]

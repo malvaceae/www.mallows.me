@@ -10,7 +10,7 @@ sys.path.append(os.curdir)
 from pelicanconf import *
 
 # Basic settings
-SITEURL = 'https://www.mallows.io'
+SITEURL = 'https://www.mallows.me'
 
 # Feed settings
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
